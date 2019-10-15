@@ -1,5 +1,8 @@
 # Hacktoberfest
-A repository to win limited edition Hacktoberfest T-Shirts
+A repository to win limited edition Hacktoberfest T-Shirts.
 
-Create your entry in Participants file in with name branch.
-Keep on manipulating your entry to make 5 pull requests.
+# Steps to follow:
+<ol>
+<li>Create your entry in Participants file in with name branch.
+<li>Keep on manipulating your entry to make 5 pull requests.
+</ol>
